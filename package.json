@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaimaebettah/node-project.git"
+  },
+  "author": "bettah.chaimae@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaimaebettah/node-project/issues"
+  },
+  "homepage": "https://github.com/Chaimaebettah/node-project#readme",
+  "devDependencies": {
+    "expect": "^1.20.2",
+    "mocha": "^3.5.0"
+  }
+}
